@@ -1,13 +1,42 @@
 body {
   font-family: sans-serif;
 }
-h2,h3 {
-  color: #00a2c6;
+.b {
+  color: #07667b;
 }
-
+h1 {
+  color: azure;
+}
+.c {
+  color: #0dcdf8;
+}
 
 footer {
   padding: 20px;
   color: white;
   background-color: #00a2c6;
+}
+
+p {
+color: aqua;
+}
+header,body{
+  background-color: black;
+}
+
+a:link {
+   color: red;
+}
+
+/* rule akan diterapkan pada sebuah tautan yang sudah pernah dikunjungi */
+a:visited {
+   color: green;
+}
+a:hover {
+   color: pink;
+}
+
+/* rule akan diterapkan pada sebuah tautan ketika ditekan */
+a:active {
+   color:orange;
 }
