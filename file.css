@@ -18,25 +18,19 @@ footer {
 }
 
 p {
-color: aqua;
+color: rgb(2, 48, 48);
 }
-header,body{
-  background-color: black;
-}
-
 a:link {
    color: red;
 }
 
-/* rule akan diterapkan pada sebuah tautan yang sudah pernah dikunjungi */
 a:visited {
-   color: green;
+   color: rgb(107, 4, 90);
 }
 a:hover {
-   color: pink;
+   color: rgb(173, 8, 129);
 }
 
-/* rule akan diterapkan pada sebuah tautan ketika ditekan */
 a:active {
-   color:orange;
+   color:rgb(55, 4, 99);
 }
