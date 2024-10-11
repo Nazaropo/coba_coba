@@ -65,6 +65,11 @@ nav {
 }
 main {
   padding: 20px;
+  
+}
+#conten {
+  float: left;
+  width: 75%;
 }
 
 p {
